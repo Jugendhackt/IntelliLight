@@ -12,3 +12,23 @@ This will be a module that can be attached to any light switch easily. When ther
 - [x] Manual Switching
 - [x] Lightsensor
 - [ ] other stuff ??
+
+## Building te Project
+
+### Setting up the RaspberryPI with Micropython
+For this folllow the normal instructions on the Micropython site.
+
+### Connecting the servo
+Follow these instructions: https://randomnerdtutorials.com/raspberry-pi-pico-servo-motor-micropython/
+**Only connect the servo, don't use the code**
+
+### Connecting the lightsensor
+We used these instructions: https://electrocredible.com/raspberry-pi-pico-ldr-photoresistor-light-dark-sensor/
+**Also don't use the example code**
+
+### Connect the button
+![image](https://github.com/[Jugendhackt]/[IntelliLight]/blob/[main]/images/image.jpg?raw=true)
+Use this image
+
+### Code
+Download the code from our repo and write it to the Pico. to execute it, just run the *main.py* file.
