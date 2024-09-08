@@ -27,7 +27,7 @@ We used these instructions: https://electrocredible.com/raspberry-pi-pico-ldr-ph
 **Also don't use the example code**
 
 ### Connect the button
-![image](https://github.com/[Jugendhackt]/[IntelliLight]/blob/[main]/images/image.jpg?raw=true)
+![image](https://github.com/[Jugendhackt]/[IntelliLight]/blob/[main]/images/IMG_20240908_092426254.jpg?raw=true)
 Use this image
 
 ### Code
