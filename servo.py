@@ -24,3 +24,7 @@ def switch_off():
     servo.move(0)
     #print("off")
     state = "off"
+
+def stop_servo():
+    servo.stop()
+    print("stopping servo")
