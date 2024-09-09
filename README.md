@@ -13,7 +13,7 @@ This will be a module that can be attached to any light switch easily. When ther
 - [x] Lightsensor
 - [ ] other stuff ??
 
-## Building te Project
+## Building the Project
 
 ### Setting up the RaspberryPI with Micropython
 For this folllow the normal instructions on the Micropython site.
